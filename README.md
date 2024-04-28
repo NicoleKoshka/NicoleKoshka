@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicoleKoshka 
 - 🌱 I’m currently learning webdev & python
 - 💞️ I’m looking to collaborate on game jams
-- ⚡ Fun fact: i have a naked cat
+- ⚡ Fun fact: i have a sphynx cat
 
 <!---
 NicoleKoshka/NicoleKoshka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
